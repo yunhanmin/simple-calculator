@@ -1,0 +1,8 @@
+// Addition.java
+
+// Operators = +, -, *, /, $ (modulus) = remainder
+// 4%3 = 1 / 994%3 = 0
+// If we do 6/4 = 1 / we should do (double) 6/4 = 1.5
+// C++
+// x++ = -> x = x + 1 (Increment)
+// x-- = -> x = x - 1 (Decrement)
